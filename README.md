@@ -3,5 +3,5 @@ Projeto para avaliação do Professor Petri
 
 Equipe:
 - Lucas Oliveira
-- Lucas Rezende
+- Lucas Rezende de Sales
 - Rafaela Queen
